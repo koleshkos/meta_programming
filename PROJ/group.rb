@@ -1,0 +1,2 @@
+class Group < Base
+end
